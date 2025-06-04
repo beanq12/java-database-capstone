@@ -2,4 +2,8 @@ This Spring Boot application uses both MVC and REST controllers. Thymeleaf templ
 
 1. User accesses AdminDashboard or Appointment pages.
 2. The action is routed to the appropriate Thymeleaf or REST controller.
-3. The controller calls the service layer...
+3. The controller calls the service layer
+4. Repository Layer
+5. Database access
+6. Model binding
+7. Application models in use
